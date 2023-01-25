@@ -1,0 +1,8 @@
+export const LOGIN_TOKEN = 'token'
+export const USERNAME = 'username'
+export const PASSWORD = 'password'
+export const IF_REMEMBER = 'ifRemember'
+export const USER_INFO = 'userInfo'
+export const MENU = 'menu'
+export const HOME = 'home'
+export const TIME_FORMAT = 'YYYY-MM-DD HH:mm:ss'
